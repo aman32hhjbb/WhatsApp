@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="message_body_color">#dcf8c6</color>
+    <color name="notification">#25d366</color>
+    <color name="secondary_text">#128c7e</color>
+    <color name="main_body">#075e54</color>
+    <color name="activity_background">#ece5dd</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
